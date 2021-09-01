@@ -13,5 +13,9 @@ namespace widgetGrafico
             PosX = X;
             Posy = Y;
         }
+        
+        public void AlteraTitular(string T){
+            Titulo = T;
+        }
     }
 }
