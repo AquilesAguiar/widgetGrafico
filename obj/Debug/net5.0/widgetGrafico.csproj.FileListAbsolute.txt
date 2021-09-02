@@ -1,0 +1,16 @@
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\obj\Debug\net5.0\widgetGrafico.csproj.AssemblyReference.cache
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\obj\Debug\net5.0\widgetGrafico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\obj\Debug\net5.0\widgetGrafico.AssemblyInfoInputs.cache
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\obj\Debug\net5.0\widgetGrafico.AssemblyInfo.cs
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\obj\Debug\net5.0\widgetGrafico.csproj.CoreCompileInputs.cache
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\bin\Debug\net5.0\widgetGrafico.exe
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\bin\Debug\net5.0\widgetGrafico.deps.json
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\bin\Debug\net5.0\widgetGrafico.runtimeconfig.json
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\bin\Debug\net5.0\widgetGrafico.runtimeconfig.dev.json
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\bin\Debug\net5.0\widgetGrafico.dll
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\bin\Debug\net5.0\ref\widgetGrafico.dll
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\bin\Debug\net5.0\widgetGrafico.pdb
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\obj\Debug\net5.0\widgetGrafico.dll
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\obj\Debug\net5.0\ref\widgetGrafico.dll
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\obj\Debug\net5.0\widgetGrafico.pdb
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\widgetGrafico\obj\Debug\net5.0\widgetGrafico.genruntimeconfig.cache

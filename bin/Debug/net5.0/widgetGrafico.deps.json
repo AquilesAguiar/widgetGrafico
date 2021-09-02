@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "widgetGrafico/1.0.0": {
+        "runtime": {
+          "widgetGrafico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "widgetGrafico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

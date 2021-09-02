@@ -2,19 +2,19 @@ namespace widgetGrafico
 {
     public class janela
     {
-        public boolean BotaoFechar {get; private set;}
-        public boolean BotaoMax {get; private set;}
-        public boolean BotaoMin {get; private set;}
-        public string Titulo {get; private set;}]
-        public int PosX {get; private set;}
-        public int PosY {get; private set;}
+        public bool BotaoFechar {get; protected set;}
+        public bool BotaoMax {get; protected set;}
+        public bool BotaoMin {get; protected set;}
+        public string Titulo {get; protected set;}
+        public int PosX {get; protected set;}
+        public int PosY {get; protected set;}
 
         public void MoverJanela(int X,int Y){
             PosX = X;
-            Posy = Y;
+            PosY = Y;
         }
         
-        public void AlteraTitular(string T){
+        public virtual void AlteraTitular(string T){
             Titulo = T;
         }
     }
