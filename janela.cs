@@ -1,6 +1,6 @@
 namespace widgetGrafico
 {
-    public class janela
+    public abstract class janela
     {
         public bool BotaoFechar {get; protected set;}
         public bool BotaoMax {get; protected set;}
@@ -9,13 +9,7 @@ namespace widgetGrafico
         public int PosX {get; protected set;}
         public int PosY {get; protected set;}
 
-        public void MoverJanela(int X,int Y){
-            PosX = X;
-            PosY = Y;
-        }
+        public abstract void MoverJanela(int X,int Y);
         
-        public virtual void AlteraTitular(string T){
-            Titulo = T;
-        }
     }
 }
